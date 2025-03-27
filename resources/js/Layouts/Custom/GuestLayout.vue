@@ -2,7 +2,7 @@
     <div>
         <Head title="Main Title" />
         <Navbar/>
-        <div class="container px-5 py-10">
+        <div class="">
             <slot/>
         </div>
         <Footer/>
